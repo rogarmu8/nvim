@@ -25,6 +25,5 @@ vim.o.clipboard = 'unnamedplus'
 vim.g.loaded = 1
 vim.g.loaded_netrwPlugin = 1
 vim.opt.termguicolors = true
-vim.opt.colorcolumn = "80"
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
