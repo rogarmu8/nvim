@@ -4,7 +4,7 @@ To use, clone this repo inside your .config:
 
 ```
 git clone https://github.com/rogarmu8/nvim
- ~/.config
+mv nvim ~/.config
 ```
 
 Install packer https://github.com/wbthomason/packer.nvim
