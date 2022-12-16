@@ -1,4 +1,4 @@
-require("packer")
+require("packer.packer")
 vim.g.mapleader = " "
 
 vim.opt.nu = true
